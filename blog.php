@@ -131,7 +131,7 @@
                 <!-- Blog Post: Plot Rate in Reliance Met City Jhajjar -->
                 <article class="blog-card reveal">
                     <div class="blog-img-wrapper">
-                        <img src="assets/reliance city.webp" alt="Plot Rate in Reliance Met City Jhajjar">
+                        <img src="assets/reliance_met_commercial.png" alt="Plot Rate in Reliance Met City Jhajjar">
                     </div>
                     <div class="blog-content">
                         <div class="blog-meta">
@@ -147,7 +147,7 @@
                 <!-- Blog Post: Owner of Reliance MET City -->
                 <article class="blog-card reveal">
                     <div class="blog-img-wrapper">
-                        <img src="assets/reliance city.webp" alt="Owner of Reliance MET City">
+                        <img src="assets/reliance_met_industrial.png" alt="Owner of Reliance MET City">
                     </div>
                     <div class="blog-content">
                         <div class="blog-meta">
@@ -163,7 +163,7 @@
                 <!-- Blog Post New -->
                 <article class="blog-card reveal">
                     <div class="blog-img-wrapper">
-                        <img src="assets/reliance city.webp" alt="Invest in MET City">
+                        <img src="assets/reliance_met_residential.png" alt="Invest in MET City">
                     </div>
                     <div class="blog-content">
                         <div class="blog-meta">

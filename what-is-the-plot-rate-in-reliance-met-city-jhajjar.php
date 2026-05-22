@@ -18,7 +18,7 @@ $meta_description = "Know the latest plot rate in Reliance MET City Jhajjar, inc
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <style>
         .single-blog-hero {
-            background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('assets/reliance city.webp') center/cover;
+            background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('assets/reliance_met_commercial.png') center/cover;
             padding: 180px 0 80px; /* Increased top padding to clear sticky header properly */
             text-align: center;
         }
