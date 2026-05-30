@@ -272,6 +272,51 @@
             }
         </script>
 
+        <!-- Global Brands Presence Section -->
+        <section id="global-brands" class="brands-section bg-light">
+            <div class="container text-center">
+                <div class="section-heading text-center" style="margin-bottom: 40px;">
+                    <span class="luxury-badge">Global Ecosystem</span>
+                    <h2>A Hub of <span class="gold-text">Global Leaders</span></h2>
+                    <p class="section-subtitle" style="max-width: 700px; margin: 15px auto 0; color: var(--text-muted); line-height: 1.6;">Reliance MET City hosts several Fortune 500 companies and multinational corporations, making it one of India's fastest-growing industrial and commercial corridors.</p>
+                    <div class="gold-underline"></div>
+                </div>
+
+                <div class="brands-grid reveal">
+                    <div class="brand-card">
+                        <div class="brand-icon"><i class="fas fa-industry"></i></div>
+                        <h4>Panasonic</h4>
+                        <p>Japanese electronics giant with a massive manufacturing facility.</p>
+                    </div>
+                    <div class="brand-card">
+                        <div class="brand-icon"><i class="fas fa-cogs"></i></div>
+                        <h4>Denso</h4>
+                        <p>Leading Japanese automotive components manufacturer.</p>
+                    </div>
+                    <div class="brand-card">
+                        <div class="brand-icon"><i class="fas fa-heart-pulse"></i></div>
+                        <h4>Nihon Kohden</h4>
+                        <p>Japanese medical equipment manufacturing leader.</p>
+                    </div>
+                    <div class="brand-card">
+                        <div class="brand-icon"><i class="fas fa-fan"></i></div>
+                        <h4>Amber Enterprises</h4>
+                        <p>India's leading air conditioner OEM/ODM manufacturer.</p>
+                    </div>
+                    <div class="brand-card">
+                        <div class="brand-icon"><i class="fas fa-warehouse"></i></div>
+                        <h4>Indospace</h4>
+                        <p>India's largest developer of industrial & logistics parks.</p>
+                    </div>
+                    <div class="brand-card">
+                        <div class="brand-icon"><i class="fas fa-shopping-cart"></i></div>
+                        <h4>Reliance Retail</h4>
+                        <p>Largest retail distribution & logistics hub in North India.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <!-- Services Section -->
         <section id="services" class="services-section">
             <div class="container">
@@ -569,6 +614,68 @@
             </div>
         </section>
 
+        <!-- Connectivity & Proximity Section -->
+        <section id="connectivity" class="connectivity-section bg-white">
+            <div class="container">
+                <div class="section-heading text-center" style="margin-bottom: 40px;">
+                    <span class="luxury-badge">Location Advantages</span>
+                    <h2>Strategic <span class="gold-text">Connectivity</span></h2>
+                    <p class="section-subtitle" style="max-width: 700px; margin: 15px auto 0; color: var(--text-muted); line-height: 1.6;">Reliance MET City enjoys a prime geographical position in Haryana, offering seamless and rapid transit to major nodes in Delhi NCR.</p>
+                    <div class="gold-underline"></div>
+                </div>
+
+                <div class="connectivity-grid reveal">
+                    <!-- KMP Expressway -->
+                    <div class="connect-card">
+                        <div class="connect-badge">10 Mins</div>
+                        <div class="connect-icon"><i class="fas fa-road"></i></div>
+                        <h3>KMP Expressway</h3>
+                        <p>Immediate access to the Kundli-Manesar-Palwal expressway for rapid NCR-wide bypassing.</p>
+                    </div>
+
+                    <!-- Farrukhnagar Railway Station -->
+                    <div class="connect-card">
+                        <div class="connect-badge">5 Mins</div>
+                        <div class="connect-icon"><i class="fas fa-train"></i></div>
+                        <h3>Farrukhnagar Railway</h3>
+                        <p>Close proximity to Farrukhnagar railway station for passenger & freight logistics.</p>
+                    </div>
+
+                    <!-- Dwarka Expressway -->
+                    <div class="connect-card">
+                        <div class="connect-badge">20 Mins</div>
+                        <div class="connect-icon"><i class="fas fa-route"></i></div>
+                        <h3>Dwarka Expressway</h3>
+                        <p>Direct connectivity to India's most modern high-speed elevated urban expressway.</p>
+                    </div>
+
+                    <!-- Gurgaon -->
+                    <div class="connect-card">
+                        <div class="connect-badge">20 Mins</div>
+                        <div class="connect-icon"><i class="fas fa-city"></i></div>
+                        <h3>Gurgaon</h3>
+                        <p>Short commute to the business towers, retail landmarks, and corporate offices of Gurgaon.</p>
+                    </div>
+
+                    <!-- Delhi Border -->
+                    <div class="connect-card">
+                        <div class="connect-badge">30 Mins</div>
+                        <div class="connect-icon"><i class="fas fa-map-pin"></i></div>
+                        <h3>New Delhi Border</h3>
+                        <p>Convenient road links to the national capital border for business and commercial operations.</p>
+                    </div>
+
+                    <!-- IGI Airport -->
+                    <div class="connect-card">
+                        <div class="connect-badge">45 Mins</div>
+                        <div class="connect-icon"><i class="fas fa-plane"></i></div>
+                        <h3>IGI Airport Delhi</h3>
+                        <p>Quick access to Indira Gandhi International Airport for national & international travel.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <!-- Quick Highlights Section -->
         <section class="quick-facts-section bg-light reveal">
             <div class="container">
@@ -858,6 +965,78 @@
                     <!--            allowfullscreen></iframe></div>-->
                     <!--</div>-->
                     <button class="slider-btn next" id="video-next">❯</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Latest Blog Insights Section -->
+        <section id="blog-insights" class="home-blog-section bg-light">
+            <div class="container">
+                <div class="section-heading text-center" style="margin-bottom: 40px;">
+                    <span class="luxury-badge">News & Articles</span>
+                    <h2>Latest <span class="gold-text">Insights</span></h2>
+                    <p class="section-subtitle" style="max-width: 700px; margin: 15px auto 0; color: var(--text-muted); line-height: 1.6;">Stay informed with the latest real estate updates, plot rates, ownership details, and investment guides from our team of industry experts.</p>
+                    <div class="gold-underline"></div>
+                </div>
+
+                <div class="home-blog-grid reveal">
+                    <!-- Article 1 -->
+                    <article class="home-blog-card">
+                        <div class="home-blog-img-wrapper">
+                            <img class="lazy" data-src="assets/reliance_met_industrial_road.jpg" 
+                                 src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 250'%3E%3C/svg%3E" 
+                                 alt="Reliance Met City Plot Rate">
+                            <span class="home-blog-tag">Pricing & Trends</span>
+                        </div>
+                        <div class="home-blog-body">
+                            <div class="home-blog-meta">
+                                <span><i class="far fa-calendar-alt"></i> May 22, 2026</span>
+                            </div>
+                            <h3>What is the plot rate in Reliance Met City Jhajjar?</h3>
+                            <p>An in-depth breakdown of the latest residential and industrial plot rates, pricing factors, and future valuation projections.</p>
+                            <a href="what-is-the-plot-rate-in-reliance-met-city-jhajjar" class="home-blog-link">Read Article <i class="fas fa-arrow-right"></i></a>
+                        </div>
+                    </article>
+
+                    <!-- Article 2 -->
+                    <article class="home-blog-card">
+                        <div class="home-blog-img-wrapper">
+                            <img class="lazy" data-src="assets/reliance_met_gate.jpg" 
+                                 src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 250'%3E%3C/svg%3E" 
+                                 alt="Reliance Met City Owner">
+                            <span class="home-blog-tag">Township Owner</span>
+                        </div>
+                        <div class="home-blog-body">
+                            <div class="home-blog-meta">
+                                <span><i class="far fa-calendar-alt"></i> May 22, 2026</span>
+                            </div>
+                            <h3>Who is the owner of Reliance Met City?</h3>
+                            <p>Understand the developers behind this massive economic township, its connection to Reliance Industries, and long-term vision.</p>
+                            <a href="who-is-the-owner-of-reliance-met-city" class="home-blog-link">Read Article <i class="fas fa-arrow-right"></i></a>
+                        </div>
+                    </article>
+
+                    <!-- Article 3 -->
+                    <article class="home-blog-card">
+                        <div class="home-blog-img-wrapper">
+                            <img class="lazy" data-src="assets/reliance city.webp" 
+                                 src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 250'%3E%3C/svg%3E" 
+                                 alt="Reliance Met City Investment">
+                            <span class="home-blog-tag">Investment Guide</span>
+                        </div>
+                        <div class="home-blog-body">
+                            <div class="home-blog-meta">
+                                <span><i class="far fa-calendar-alt"></i> May 11, 2026</span>
+                            </div>
+                            <h3>Is It Good to Invest in Reliance MET City?</h3>
+                            <p>Analyze key advantages, strategic connectivity, growth triggers, potential risks, and recommendations for smart property investment.</p>
+                            <a href="is-it-good-to-invest-in-reliance-met-city" class="home-blog-link">Read Article <i class="fas fa-arrow-right"></i></a>
+                        </div>
+                    </article>
+                </div>
+                
+                <div class="text-center" style="margin-top: 50px;">
+                    <a href="blog" class="btn-gold">View All Articles</a>
                 </div>
             </div>
         </section>
