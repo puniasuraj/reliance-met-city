@@ -131,6 +131,7 @@
                         <form class="modern-form-ui" action="https://formsubmit.co/puniasuraj150@gmail.com" method="POST">
                             <!-- FormSubmit Settings -->
                             <input type="hidden" name="_subject" value="New Inquiry: About Us Page">
+                        <input type="hidden" name="_next" value="https://metjhajjarplots.com/thank-you">
                             <input type="hidden" name="_template" value="table">
                             <input type="text" name="_honey" style="display:none">
 

@@ -247,59 +247,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // 13. Lead Form Submission Logic (AJAX submission to FormSubmit.co / Gmail)
-    const forms = document.querySelectorAll('form[action*="formsubmit.co"]');
-    forms.forEach(form => {
-        form.addEventListener("submit", (e) => {
-            e.preventDefault();
-            
-            // Show a loading state on the button
-            const submitBtn = form.querySelector('button[type="submit"]');
-            const originalBtnText = submitBtn ? submitBtn.innerText : "Send Message";
-            if (submitBtn) {
-                submitBtn.disabled = true;
-                submitBtn.innerText = "Sending...";
-            }
-            
-            // Get form action URL and convert to AJAX endpoint if it isn't already
-            let actionUrl = form.getAttribute('action');
-            if (actionUrl && !actionUrl.includes('/ajax/')) {
-                actionUrl = actionUrl.replace('formsubmit.co/', 'formsubmit.co/ajax/');
-            }
-            
-            const formData = new FormData(form);
-            
-            fetch(actionUrl, {
-                method: "POST",
-                body: formData,
-                headers: {
-                    'Accept': 'application/json'
-                }
-            })
-            .then(response => {
-                if (response.ok) {
-                    return response.json();
-                }
-                throw new Error('Network response was not ok.');
-            })
-            .then(data => {
-                form.reset();
-                window.location.href = "thank-you";
-            })
-            .catch(error => {
-                console.error('Error submitting form:', error);
-                // Fallback to standard form submission if AJAX fails
-                form.submit();
-            })
-            .finally(() => {
-                if (submitBtn) {
-                    submitBtn.disabled = false;
-                    submitBtn.innerText = originalBtnText;
-                }
-            });
-        });
-    });
-
     // Modal close logic
     window.closeModal = function () {
         const thankYouModal = document.getElementById("thankYouModal");

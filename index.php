@@ -168,10 +168,11 @@
                 </div>
 
                 <div class="hero-form-container reveal">
-                    <form class="luxury-form" id="leadForm" action="https://formsubmit.co/ajax/puniasuraj150@gmail.com"
+                    <form class="luxury-form" id="leadForm" action="https://formsubmit.co/puniasuraj150@gmail.com"
                         method="POST">
                         <!-- FormSubmit Settings -->
                         <input type="hidden" name="_subject" value="New Inquiry - Met Jhajjar Plots">
+                        <input type="hidden" name="_next" value="https://metjhajjarplots.com/thank-you">
                         <input type="hidden" name="_template" value="table">
                         <input type="hidden" name="_captcha" value="false">
 
@@ -1188,6 +1189,7 @@
                         <form class="modern-form-ui" action="https://formsubmit.co/puniasuraj150@gmail.com" method="POST">
                             <!-- FormSubmit Settings -->
                             <input type="hidden" name="_subject" value="New Inquiry: Home Contact Form">
+                        <input type="hidden" name="_next" value="https://metjhajjarplots.com/thank-you">
                             <input type="hidden" name="_template" value="table">
                             <input type="text" name="_honey" style="display:none">
 

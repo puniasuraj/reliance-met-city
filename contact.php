@@ -58,6 +58,7 @@
                     <form class="luxury-contact-form" action="https://formsubmit.co/puniasuraj150@gmail.com" method="POST">
                         <!-- FormSubmit Settings -->
                         <input type="hidden" name="_subject" value="New Inquiry: Contact Page Form">
+                        <input type="hidden" name="_next" value="https://metjhajjarplots.com/thank-you">
                         <input type="hidden" name="_template" value="table">
                         <input type="text" name="_honey" style="display:none">
 
