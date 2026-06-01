@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- SEO Meta Tags -->
-    <title>Industrial Plots | Model Economic Township</title>
+    <title>Industrial Plots | MET City</title>
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description"
         content="Scale your business at Model Economic Township with premium industrial plots. Strategically located near KMP Expressway with world-class infrastructure.">

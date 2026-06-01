@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- SEO Meta Tags -->
-    <title>Commercial Plots | Model Economic Township</title>
+    <title>Commercial Plots | MET City</title>
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description"
         content="Invest in high-growth commercial plots at Model Economic Township. Ideal for SCO, retail hubs, and office spaces with massive footfall potential.">
