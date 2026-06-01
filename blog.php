@@ -128,6 +128,22 @@
         <!-- Blog Grid -->
         <section class="bg-light">
             <div class="container blog-grid">
+                <!-- Blog Post: Companies in Reliance MET City -->
+                <article class="blog-card reveal">
+                    <div class="blog-img-wrapper">
+                        <img src="assets/reliance_met_industrial.png" alt="Companies in Reliance Met City">
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-meta">
+                            <span class="blog-tag">Industries</span>
+                            <span><i class="far fa-calendar-alt"></i> June 1, 2026</span>
+                        </div>
+                        <h3 class="blog-title">Which companies are in Reliance Met City?</h3>
+                        <p class="blog-excerpt">Explore the directory of multinational brands and domestic giants operating in Reliance MET City, Jhajjar, including the Japanese Industrial Township cluster.</p>
+                        <a href="companies-in-reliance-met-city" class="read-more">Read Full Article <i class="fas fa-arrow-right"></i></a>
+                    </div>
+                </article>
+
                 <!-- Blog Post: Plot Rate in Reliance Met City Jhajjar -->
                 <article class="blog-card reveal">
                     <div class="blog-img-wrapper">
