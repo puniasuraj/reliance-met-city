@@ -128,7 +128,7 @@
                         </div>
                     </div>
                     <div class="contact-right-form">
-                        <form class="modern-form-ui" action="https://formsubmit.co/puniasuraj150@gmail.com" method="POST">
+                        <form class="modern-form-ui" action="send-mail.php" method="POST">
                             <!-- FormSubmit Settings -->
                             <input type="hidden" name="_subject" value="New Inquiry: About Us Page">
                         <input type="hidden" name="_next" value="https://metjhajjarplots.com/thank-you">

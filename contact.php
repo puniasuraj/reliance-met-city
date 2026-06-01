@@ -55,7 +55,7 @@
                 </div>
 
                 <div class="contact-form-wrapper reveal">
-                    <form class="luxury-contact-form" action="https://formsubmit.co/puniasuraj150@gmail.com" method="POST">
+                    <form class="luxury-contact-form" action="send-mail.php" method="POST">
                         <!-- FormSubmit Settings -->
                         <input type="hidden" name="_subject" value="New Inquiry: Contact Page Form">
                         <input type="hidden" name="_next" value="https://metjhajjarplots.com/thank-you">
