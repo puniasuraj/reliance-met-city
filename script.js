@@ -247,36 +247,62 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // 13. [WHATSAPP] Lead Form Submission Logic
-    const leadForm = document.getElementById("leadForm");
-    const whatsappNumber = "917450053004";
-
-    const sendToWhatsApp = (form, e) => {
-        e.preventDefault();
-        const formData = new FormData(form);
-        const name = formData.get('name') || 'N/A';
-        const phone = formData.get('phone') || 'N/A';
-        const message = formData.get('message') || 'Interested in Reliance MET Plots';
-        const subject = formData.get('_subject') || 'New Inquiry';
-
-        const text = `*${subject}*%0A%0A*Name:* ${name}%0A*Phone:* ${phone}%0A*Message:* ${message}`;
-        const whatsappUrl = `https://api.whatsapp.com/send?phone=${whatsappNumber}&text=${text}`;
-
-        window.open(whatsappUrl, '_blank');
-        form.reset();
-
-        // Optionally show modal
-        const thankYouModal = document.getElementById("thankYouModal");
-        if (thankYouModal) thankYouModal.style.display = "flex";
-    };
-
-    if (leadForm) {
-        leadForm.addEventListener("submit", (e) => sendToWhatsApp(leadForm, e));
-    }
-
-    // Also catch any other forms that were pointed to FormSubmit
-    document.querySelectorAll('form[action*="formsubmit.co"]').forEach(form => {
-        form.addEventListener("submit", (e) => sendToWhatsApp(form, e));
+    // 13. Lead Form Submission Logic (AJAX submission to FormSubmit.co / Gmail)
+    const forms = document.querySelectorAll('form[action*="formsubmit.co"]');
+    forms.forEach(form => {
+        form.addEventListener("submit", (e) => {
+            e.preventDefault();
+            
+            // Show a loading state on the button
+            const submitBtn = form.querySelector('button[type="submit"]');
+            const originalBtnText = submitBtn ? submitBtn.innerText : "Send Message";
+            if (submitBtn) {
+                submitBtn.disabled = true;
+                submitBtn.innerText = "Sending...";
+            }
+            
+            // Get form action URL and convert to AJAX endpoint if it isn't already
+            let actionUrl = form.getAttribute('action');
+            if (actionUrl && !actionUrl.includes('/ajax/')) {
+                actionUrl = actionUrl.replace('formsubmit.co/', 'formsubmit.co/ajax/');
+            }
+            
+            const formData = new FormData(form);
+            
+            fetch(actionUrl, {
+                method: "POST",
+                body: formData,
+                headers: {
+                    'Accept': 'application/json'
+                }
+            })
+            .then(response => {
+                if (response.ok) {
+                    return response.json();
+                }
+                throw new Error('Network response was not ok.');
+            })
+            .then(data => {
+                form.reset();
+                const thankYouModal = document.getElementById("thankYouModal");
+                if (thankYouModal) {
+                    thankYouModal.style.display = "flex";
+                } else {
+                    alert("Thank you! Your message has been sent successfully.");
+                }
+            })
+            .catch(error => {
+                console.error('Error submitting form:', error);
+                // Fallback to standard form submission if AJAX fails
+                form.submit();
+            })
+            .finally(() => {
+                if (submitBtn) {
+                    submitBtn.disabled = false;
+                    submitBtn.innerText = originalBtnText;
+                }
+            });
+        });
     });
 
     // Modal close logic
