@@ -1,16 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<script id="eppiocemhmnlbhjplcgkofciiegomcon"/>
-<script/>
-<script/>
-<script src="chrome-extension://hoklmmgfnpapgjgcpechhaamimifchmp/frame_ant/frame_ant.js"/>
-<url>
-<loc>https://metjhajjarplots.com/</loc>
-<lastmod>2026-02-27T12:08:30+00:00</lastmod>
-<priority>1.00</priority>
-</url>
-<url>
-<loc>https://metjhajjarplots.com/contact.html</loc>
-<lastmod>2026-02-19T17:06:30+00:00</lastmod>
-<priority>0.80</priority>
-</url>
+  <url>
+    <loc>https://metjhajjarplots.com/</loc>
+    <lastmod>2026-06-01T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://metjhajjarplots.com/about-us</loc>
+    <lastmod>2026-06-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://metjhajjarplots.com/residential-plots</loc>
+    <lastmod>2026-06-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://metjhajjarplots.com/industrial-plots</loc>
+    <lastmod>2026-06-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://metjhajjarplots.com/commercial-plots</loc>
+    <lastmod>2026-06-01T12:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://metjhajjarplots.com/blog</loc>
+    <lastmod>2026-06-01T12:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://metjhajjarplots.com/contact</loc>
+    <lastmod>2026-06-01T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://metjhajjarplots.com/companies-in-reliance-met-city</loc>
+    <lastmod>2026-06-01T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://metjhajjarplots.com/what-is-the-plot-rate-in-reliance-met-city-jhajjar</loc>
+    <lastmod>2026-06-01T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://metjhajjarplots.com/who-is-the-owner-of-reliance-met-city</loc>
+    <lastmod>2026-06-01T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://metjhajjarplots.com/is-it-good-to-invest-in-reliance-met-city</loc>
+    <lastmod>2026-06-01T12:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.64</priority>
+  </url>
 </urlset>
