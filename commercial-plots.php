@@ -44,7 +44,7 @@
                         <div class="about-breadcrumb">[<span>Commercial</span>]</div>
                         <h2 class="about-main-title">A Hub for <span class="gold-text">Retail</span> & Business</h2>
                         <p class="about-overview-text">
-                            Reliance MET City commercial plots are strategically located to serve a growing community of residents and industrial workers. These plots are ideal for SCO (Shop-cum-Office), retail hubs, and corporate office complexes.
+                            MET City commercial plots are strategically located to serve a growing community of residents and industrial workers. These plots are ideal for SCO (Shop-cum-Office), retail hubs, and corporate office complexes.
                         </p>
                         <p class="about-overview-text" style="margin-top: 20px;">
                             With a focus on massive footfall and high ROI potential, these spaces are developed with premium infrastructure, ample parking, and excellent connectivity to major roads, ensuring your business stays at the center of the action.
