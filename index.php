@@ -9,9 +9,9 @@
     <title>Reliance Met City | 7450053004 | Residential Plots</title>
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description"
-        content="Invest in premium luxury living at Reliance Met City. Modern integrated township by Reliance Industries offering ultra-premium residential and industrial plots.">
+        content="Invest in premium luxury living at Reliance Met Jhajjar. Modern integrated township by Reliance Industries offering ultra-premium residential and industrial plots.">
     <meta name="keywords"
-        content="Reliance MET City, Reliance MET City Residential Plots, Reliance MET City Jhajjar, Reliance Smart City, Reliance Met Jhajjar, Reliance Met Industrial Plots">
+        content="Reliance MET City, MET City Residential Plots, MET City Jhajjar, Reliance Smart City, Reliance Met Jhajjar, Reliance Met Industrial Plots">
         
     <meta name="robots" content="index, follow">   
     <link rel="canonical" href="https://metjhajjarplots.com/" />
@@ -211,7 +211,7 @@
                         <div class="about-breadcrumb">[<span>Overview</span>]</div>
                         <h2 class="about-main-title"> About <span class="gold-text"> Reliance MET City</span> <br></h2>
                         <p class="about-overview-text">
-                            Reliance MET City is a world-class integrated residential and industrial township located in Jhajjar, Haryana. Developed with a vision to create a future-ready business ecosystem, it offers state-of-the-art infrastructure, well-planned industrial zones, modern utilities, and seamless connectivity to Delhi NCR. The city is designed to support manufacturing, logistics, warehousing, and commercial operations, making it an attractive destination for both domestic and international businesses looking to expand their presence in India.
+                            Reliance Smart City is a world-class integrated residential and industrial township located in Jhajjar, Haryana. Developed with a vision to create a future-ready business ecosystem, it offers state-of-the-art infrastructure, well-planned industrial zones, modern utilities, and seamless connectivity to Delhi NCR. The city is designed to support manufacturing, logistics, warehousing, and commercial operations, making it an attractive destination for both domestic and international businesses looking to expand their presence in India.
                         </p>
                         <p class="about-overview-text" style="margin-top: 20px;">
                             Spread across a vast area, Reliance Smart City Haryana combines advanced urban planning with sustainable development practices. It features wide road networks, reliable power and water supply, digital infrastructure, green spaces, and a business-friendly environment that promotes growth and innovation. With its strategic location near major highways, airports, and freight corridors, Reliance Smart City Haryana continues to attract leading companies across various industries, contributing significantly to economic development and employment generation in the region.
@@ -985,6 +985,24 @@
                     <!-- Article 1 -->
                     <article class="home-blog-card">
                         <div class="home-blog-img-wrapper">
+                            <img class="lazy" data-src="assets/reliance_met_sector_3_gate.jpg" 
+                                 src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 250'%3E%3C/svg%3E" 
+                                 alt="How much land is in Reliance Met Jhajjar">
+                            <span class="home-blog-tag">Area & Zoning</span>
+                        </div>
+                        <div class="home-blog-body">
+                            <div class="home-blog-meta">
+                                <span><i class="far fa-calendar-alt"></i> June 19, 2026</span>
+                            </div>
+                            <h3>How much land is in Reliance Met City?</h3>
+                            <p>Explore the total acreage, master plan zoning, and land division of Reliance Smart City in Jhajjar, Haryana, including residential and industrial sectors.</p>
+                            <a href="how-much-land-is-in-reliance-met-city" class="home-blog-link">Read Article <i class="fas fa-arrow-right"></i></a>
+                        </div>
+                    </article>
+
+                    <!-- Article 2 -->
+                    <article class="home-blog-card">
+                        <div class="home-blog-img-wrapper">
                             <img class="lazy" data-src="assets/reliance_met_industrial_road.jpg" 
                                  src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 250'%3E%3C/svg%3E" 
                                  alt="Reliance Met Jhajjar Plot Rate">
@@ -1000,39 +1018,21 @@
                         </div>
                     </article>
 
-                    <!-- Article 2 -->
-                    <article class="home-blog-card">
-                        <div class="home-blog-img-wrapper">
-                            <img class="lazy" data-src="assets/reliance_met_gate.jpg" 
-                                 src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 250'%3E%3C/svg%3E" 
-                                 alt="Reliance Met Jhajjar Owner">
-                            <span class="home-blog-tag">Township Owner</span>
-                        </div>
-                        <div class="home-blog-body">
-                            <div class="home-blog-meta">
-                                <span><i class="far fa-calendar-alt"></i> May 22, 2026</span>
-                            </div>
-                            <h3>Who is the owner of Reliance Met City?</h3>
-                            <p>Understand the developers behind this massive economic township, its connection to Reliance Industries, and long-term vision.</p>
-                            <a href="who-is-the-owner-of-reliance-met-city" class="home-blog-link">Read Article <i class="fas fa-arrow-right"></i></a>
-                        </div>
-                    </article>
-
                     <!-- Article 3 -->
                     <article class="home-blog-card">
                         <div class="home-blog-img-wrapper">
-                            <img class="lazy" data-src="assets/reliance city.webp" 
+                            <img class="lazy" data-src="assets/reliance_met_industrial.png" 
                                  src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 250'%3E%3C/svg%3E" 
-                                 alt="Reliance Smart City Investment">
-                            <span class="home-blog-tag">Investment Guide</span>
+                                 alt="Companies in Reliance Met Jhajjar">
+                            <span class="home-blog-tag">Industries</span>
                         </div>
                         <div class="home-blog-body">
                             <div class="home-blog-meta">
-                                <span><i class="far fa-calendar-alt"></i> May 11, 2026</span>
+                                <span><i class="far fa-calendar-alt"></i> June 1, 2026</span>
                             </div>
-                            <h3>Is It Good to Invest in Reliance MET City?</h3>
-                            <p>Analyze key advantages, strategic connectivity, growth triggers, potential risks, and recommendations for smart property investment.</p>
-                            <a href="is-it-good-to-invest-in-reliance-met-city" class="home-blog-link">Read Article <i class="fas fa-arrow-right"></i></a>
+                            <h3>Which companies are in Reliance Met City?</h3>
+                            <p>Explore the directory of multinational brands and domestic giants operating in Reliance Smart City, Jhajjar, including the Japanese Industrial Township cluster.</p>
+                            <a href="companies-in-reliance-met-city" class="home-blog-link">Read Article <i class="fas fa-arrow-right"></i></a>
                         </div>
                     </article>
                 </div>
