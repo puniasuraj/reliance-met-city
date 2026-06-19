@@ -992,7 +992,7 @@
                         </div>
                         <div class="home-blog-body">
                             <div class="home-blog-meta">
-                                <span><i class="far fa-calendar-alt"></i> May 22, 2026</span>
+                                <span><i class="far fa-calendar-alt"></i> June 9, 2026</span>
                             </div>
                             <h3>What is the plot rate in Reliance Met Jhajjar?</h3>
                             <p>An in-depth breakdown of the latest residential and industrial plot rates, pricing factors, and future valuation projections.</p>

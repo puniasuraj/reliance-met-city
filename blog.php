@@ -152,7 +152,7 @@
                     <div class="blog-content">
                         <div class="blog-meta">
                             <span class="blog-tag">Pricing</span>
-                            <span><i class="far fa-calendar-alt"></i> May 22, 2026</span>
+                            <span><i class="far fa-calendar-alt"></i> June 9, 2026</span>
                         </div>
                         <h3 class="blog-title">What is the plot rate in Reliance Met City Jhajjar?</h3>
                         <p class="blog-excerpt">Know the latest plot rate in Reliance MET City Jhajjar, including pricing trends, location benefits, investment potential, and industrial plot details.</p>
