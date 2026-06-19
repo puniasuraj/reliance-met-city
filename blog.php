@@ -131,7 +131,7 @@
                 <!-- Blog Post: Land Area in Reliance MET City -->
                 <article class="blog-card reveal">
                     <div class="blog-img-wrapper">
-                        <img src="assets/reliance city.webp" alt="How much land is in Reliance Met City">
+                        <img src="assets/reliance_met_sector_3_gate.jpg" alt="How much land is in Reliance Met City">
                     </div>
                     <div class="blog-content">
                         <div class="blog-meta">

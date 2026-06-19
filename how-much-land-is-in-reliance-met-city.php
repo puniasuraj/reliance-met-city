@@ -18,7 +18,7 @@ $meta_description = "Discover the exact land area and size of Reliance MET City 
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <style>
         .single-blog-hero {
-            background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('assets/reliance_met_industrial_road.jpg') center/cover;
+            background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('assets/reliance_met_sector_3_gate.jpg') center/cover;
             padding: 180px 0 80px;
             text-align: center;
         }
