@@ -128,6 +128,22 @@
         <!-- Blog Grid -->
         <section class="bg-light">
             <div class="container blog-grid">
+                <!-- Blog Post: Land Area in Reliance MET City -->
+                <article class="blog-card reveal">
+                    <div class="blog-img-wrapper">
+                        <img src="assets/reliance city.webp" alt="How much land is in Reliance Met City">
+                    </div>
+                    <div class="blog-content">
+                        <div class="blog-meta">
+                            <span class="blog-tag">Area & Zoning</span>
+                            <span><i class="far fa-calendar-alt"></i> June 19, 2026</span>
+                        </div>
+                        <h3 class="blog-title">How much land is in Reliance Met City?</h3>
+                        <p class="blog-excerpt">Explore the total acreage, master plan zoning, and land division of Reliance MET City in Jhajjar, Haryana, including residential and industrial sectors.</p>
+                        <a href="how-much-land-is-in-reliance-met-city" class="read-more">Read Full Article <i class="fas fa-arrow-right"></i></a>
+                    </div>
+                </article>
+
                 <!-- Blog Post: Companies in Reliance MET City -->
                 <article class="blog-card reveal">
                     <div class="blog-img-wrapper">

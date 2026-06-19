@@ -710,7 +710,7 @@
                     <div class="fact-card">
                         <div class="fact-icon-box"><i class="fas fa-map-location-dot"></i></div>
                         <h4>Location</h4>
-                        <p>Reliance MET City, Jhajjar (Haryana)</p>
+                        <p><a href="how-much-land-is-in-reliance-met-city">Reliance MET City</a>, Jhajjar (Haryana)</p>
                     </div>
                     <!-- Fact 6 -->
                     <div class="fact-card">
@@ -1062,7 +1062,7 @@
                                     <div class="faq-icon-circle">+</div>
                                 </div>
                                 <div class="faq-body-modern">
-                                    <p>Reliance MET City is a planned smart industrial city in Jhajjar, Haryana, developed to provide world-class infrastructure for industries, businesses, and future urban development.</p>
+                                    <p><a href="how-much-land-is-in-reliance-met-city">Reliance MET City</a> is a planned smart industrial city in Jhajjar, Haryana, developed to provide world-class infrastructure for industries, businesses, and future urban development.</p>
                                 </div>
                             </div>
 
