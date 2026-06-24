@@ -6,10 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- SEO Meta Tags -->
-    <title>Reliance Met City | 7450053004 | Residential Plots</title>
+    <title>Reliance MET City Jhajjar | Premium Residential & Industrial Plots</title>
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description"
-        content="Invest in premium luxury living at Reliance Met Jhajjar. Modern integrated township by Reliance Industries offering ultra-premium residential and industrial plots.">
+        content="Invest in premium residential and industrial plots at Reliance MET City, Jhajjar. Developed by Reliance Industries, MET City offers world-class infrastructure.">
     <meta name="keywords"
         content="Reliance MET City, MET City Residential Plots, MET City Jhajjar, Reliance Smart City, Reliance Met Jhajjar, Reliance Met Industrial Plots">
         
@@ -17,10 +17,10 @@
     <link rel="canonical" href="https://metjhajjarplots.com/" />
 
     <!-- Open Graph Tags -->
-    <meta property="og:title" content="Reliance Met City | 7450053004 | Residential Plots">
-    <meta property="og:description" content="Invest in premium luxury living at Reliance Smart City, Jhajjar. Modern integrated township by Reliance Industries offering ultra-premium residential and industrial plots.">
+    <meta property="og:title" content="Reliance MET City Jhajjar | Premium Residential & Industrial Plots">
+    <meta property="og:description" content="Invest in premium residential and industrial plots at Reliance MET City, Jhajjar. Developed by Reliance Industries, MET City offers world-class infrastructure.">
     <meta property="og:image" content="assets/banner.webp">
-    <meta property="og:url" content="https://metjhajjarplots.com">
+    <meta property="og:url" content="https://metjhajjarplots.com/">
     <meta name="google-site-verification" content="wuYLWjRj37glHjgesHII8iWRkaVlL2cOfMHnrNQqje8" />
 
     <!-- Schema.org for Real Estate & FAQ -->
@@ -28,10 +28,10 @@
 {
   "@context": "https://schema.org",
   "@type": "RealEstateAgent",
-  "name": "Reliance Met City",
-  "image": "",
-  "@id": "",
-  "url": "",
+  "name": "Reliance MET City",
+  "image": "https://metjhajjarplots.com/assets/logo.webp",
+  "@id": "https://metjhajjarplots.com/#realestateagent",
+  "url": "https://metjhajjarplots.com/",
   "telephone": "+91 7450053004",
   "address": {
     "@type": "PostalAddress",
@@ -67,13 +67,8 @@
 {
   "@context": "https://schema.org/",
   "@type": "WebSite",
-  "name": "Met Jhajjar Plots",
-  "url": "https://metjhajjarplots.com/",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "{search_term_string}",
-    "query-input": "required name=search_term_string"
-  }
+  "name": "Reliance MET City Plots",
+  "url": "https://metjhajjarplots.com/"
 }
 </script>
 
@@ -97,7 +92,7 @@
     }
   },{
     "@type": "Question",
-    "name": "Why should businesses invest in Reliance Smart City Haryana?",
+    "name": "Why should businesses invest in Reliance MET City, Haryana?",
     "acceptedAnswer": {
       "@type": "Answer",
       "text": "The township offers strategic location advantages, advanced infrastructure, seamless connectivity, and strong growth opportunities for businesses across multiple sectors."
@@ -125,14 +120,14 @@
     }
   },{
     "@type": "Question",
-    "name": "Is Reliance Smart City suitable for logistics and warehousing companies?",
+    "name": "Is Reliance MET City suitable for logistics and warehousing companies?",
     "acceptedAnswer": {
       "@type": "Answer",
       "text": "Yes, its strategic location and access to major transportation routes make it an ideal destination for logistics, warehousing, and supply chain operations."
     }
   },{
     "@type": "Question",
-    "name": "What makes Reliance Smart City Haryana different from other industrial townships?",
+    "name": "What makes Reliance MET City different from other industrial townships?",
     "acceptedAnswer": {
       "@type": "Answer",
       "text": "Its smart-city planning, future-ready infrastructure, sustainable development approach, and integrated business ecosystem distinguish it from traditional industrial parks."
@@ -211,17 +206,17 @@
                         <div class="about-breadcrumb">[<span>Overview</span>]</div>
                         <h2 class="about-main-title"> About <span class="gold-text"> Reliance MET City</span> <br></h2>
                         <p class="about-overview-text">
-                            Reliance Smart City is a world-class integrated residential and industrial township located in Jhajjar, Haryana. Developed with a vision to create a future-ready business ecosystem, it offers state-of-the-art infrastructure, well-planned industrial zones, modern utilities, and seamless connectivity to Delhi NCR. The city is designed to support manufacturing, logistics, warehousing, and commercial operations, making it an attractive destination for both domestic and international businesses looking to expand their presence in India.
+                            Reliance MET City is a world-class integrated residential and industrial township located in Jhajjar, Haryana. Developed with a vision to create a future-ready business ecosystem, it offers state-of-the-art infrastructure, well-planned industrial zones, modern utilities, and seamless connectivity to Delhi NCR. The city is designed to support manufacturing, logistics, warehousing, and commercial operations, making it an attractive destination for both domestic and international businesses looking to expand their presence in India.
                         </p>
                         <p class="about-overview-text" style="margin-top: 20px;">
-                            Spread across a vast area, Reliance Smart City Haryana combines advanced urban planning with sustainable development practices. It features wide road networks, reliable power and water supply, digital infrastructure, green spaces, and a business-friendly environment that promotes growth and innovation. With its strategic location near major highways, airports, and freight corridors, Reliance Smart City Haryana continues to attract leading companies across various industries, contributing significantly to economic development and employment generation in the region.
+                            Spread across a vast area, Reliance MET City, Haryana combines advanced urban planning with sustainable development practices. It features wide road networks, reliable power and water supply, digital infrastructure, green spaces, and a business-friendly environment that promotes growth and innovation. With its strategic location near major highways, airports, and freight corridors, Reliance MET City continues to attract leading companies across various industries, contributing significantly to economic development and employment generation in the region.
                         </p>
                         <div class="about-cta-wrapper" style="margin-top: 30px;">
                             <a href="about-us" class="btn-gold-sm">Know More</a>
                         </div>
                     </div>
                     <div class="about-image-wrapper reveal">
-                        <img src="assets/e_image_1.jpg" alt="Reliance Met Jhajjar Overview" class="about-main-img">
+                        <img src="assets/e_image_1.jpg" alt="Reliance MET City Jhajjar Overview" class="about-main-img">
                         <div class="rotating-badge">
                             <div class="badge-text-circle" id="rotatingBadgeText">
                                 <!-- Text will be injected by JS -->
@@ -395,35 +390,35 @@
                 <div class="scroller-inner">
                     <div class="scroller-item"><img class="lazy" data-src="assets/e_image_1.jpg"
                             src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 300'%3E%3C/svg%3E"
-                            alt="Property 1" loading="lazy" decoding="async"></div>
+                            alt="Reliance MET City township residential plots development" loading="lazy" decoding="async"></div>
                     <div class="scroller-item"><img class="lazy" data-src="assets/e_image_2.jpg"
                             src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 300'%3E%3C/svg%3E"
-                            alt="Property 2" loading="lazy" decoding="async"></div>
+                            alt="MET City Jhajjar premium infrastructure road network" loading="lazy" decoding="async"></div>
                     <div class="scroller-item"><img class="lazy" data-src="assets/e_image_3.jpg"
                             src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 300'%3E%3C/svg%3E"
-                            alt="Property 3" loading="lazy" decoding="async"></div>
+                            alt="Industrial plots development at Reliance MET City" loading="lazy" decoding="async"></div>
                     <div class="scroller-item"><img class="lazy" data-src="assets/e_image_4.jpg"
                             src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 300'%3E%3C/svg%3E"
-                            alt="Property 4" loading="lazy" decoding="async"></div>
+                            alt="Model Economic Township commercial properties layout" loading="lazy" decoding="async"></div>
                     <div class="scroller-item"><img class="lazy" data-src="assets/e_image_5.jpg"
                             src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 300'%3E%3C/svg%3E"
-                            alt="Property 5" loading="lazy" decoding="async"></div>
+                            alt="Reliance MET City Jhajjar site construction layout" loading="lazy" decoding="async"></div>
                     <!-- Duplicate for seamless loop -->
                     <div class="scroller-item"><img class="lazy" data-src="assets/e_image_1.jpg"
                             src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 300'%3E%3C/svg%3E"
-                            alt="Property 1" loading="lazy" decoding="async"></div>
+                            alt="Reliance MET City township residential plots development" loading="lazy" decoding="async"></div>
                     <div class="scroller-item"><img class="lazy" data-src="assets/e_image_2.jpg"
                             src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 300'%3E%3C/svg%3E"
-                            alt="Property 2" loading="lazy" decoding="async"></div>
+                            alt="MET City Jhajjar premium infrastructure road network" loading="lazy" decoding="async"></div>
                     <div class="scroller-item"><img class="lazy" data-src="assets/e_image_3.jpg"
                             src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 300'%3E%3C/svg%3E"
-                            alt="Property 3" loading="lazy" decoding="async"></div>
+                            alt="Industrial plots development at Reliance MET City" loading="lazy" decoding="async"></div>
                     <div class="scroller-item"><img class="lazy" data-src="assets/e_image_4.jpg"
                             src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 300'%3E%3C/svg%3E"
-                            alt="Property 4" loading="lazy" decoding="async"></div>
+                            alt="Model Economic Township commercial properties layout" loading="lazy" decoding="async"></div>
                     <div class="scroller-item"><img class="lazy" data-src="assets/e_image_5.jpg"
                             src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 400 300'%3E%3C/svg%3E"
-                            alt="Property 5" loading="lazy" decoding="async"></div>
+                            alt="Reliance MET City Jhajjar site construction layout" loading="lazy" decoding="async"></div>
                 </div>
             </div>
         </section>
@@ -571,7 +566,7 @@
                             <div class="choose-icon-box teal">🗺️</div>
                             <div class="choose-content">
                                 <h3>Prime Strategic Location</h3>
-                                <p>Located in Jhajjar, Haryana, Reliance Smart City enjoys excellent connectivity to Delhi, Gurugram, and major highways. Its proximity to key industrial corridors and transport networks makes it ideal for businesses looking for smooth logistics and market access.</p>
+                                <p>Located in Jhajjar, Haryana, Reliance MET City enjoys excellent connectivity to Delhi, Gurugram, and major highways. Its proximity to key industrial corridors and transport networks makes it ideal for businesses looking for smooth logistics and market access.</p>
                             </div>
                         </div>
                         <!-- Card 2 -->
@@ -579,7 +574,7 @@
                             <div class="choose-icon-box purple">🏢️</div>
                             <div class="choose-content">
                                 <h3>Integrated Township Concept</h3>
-                                <p>Reliance Smart City Haryana is not just an industrial zone—it is a fully integrated township with industrial, residential, and commercial spaces. This ensures better workforce availability and a well-balanced business environment.</p>
+                                <p>Reliance MET City, Haryana is not just an industrial zone—it is a fully integrated township with industrial, residential, and commercial spaces. This ensures better workforce availability and a well-balanced business environment.</p>
                             </div>
                         </div>
                         <!-- Card 3 -->
@@ -602,7 +597,7 @@
 
                     <div class="why-choose-right reveal">
                         <div class="image-frame-container">
-                            <img src="assets/reliance city.webp" alt="Reliance Smart City Gate">
+                            <img src="assets/reliance city.webp" alt="Reliance MET City Gate">
                             <div class="floating-badge">
                                 <div class="badge-icon">✓</div>
                                 <div class="badge-text">
@@ -1080,7 +1075,7 @@
                             <!-- Q3 -->
                             <div class="faq-item-modern">
                                 <div class="faq-header-modern">
-                                    <span>Why should businesses invest in Reliance Smart City Haryana?</span>
+                                    <span>Why should businesses invest in Reliance MET City, Haryana?</span>
                                     <div class="faq-icon-circle">+</div>
                                 </div>
                                 <div class="faq-body-modern">
@@ -1124,7 +1119,7 @@
                             <!-- Q7 -->
                             <div class="faq-item-modern">
                                 <div class="faq-header-modern">
-                                    <span>Is Reliance Smart City suitable for logistics and warehousing companies?</span>
+                                    <span>Is Reliance MET City suitable for logistics and warehousing companies?</span>
                                     <div class="faq-icon-circle">+</div>
                                 </div>
                                 <div class="faq-body-modern">
@@ -1135,7 +1130,7 @@
                             <!-- Q8 -->
                             <div class="faq-item-modern">
                                 <div class="faq-header-modern">
-                                    <span>What makes Reliance Smart City Haryana different from other industrial townships?</span>
+                                    <span>What makes Reliance MET City different from other industrial townships?</span>
                                     <div class="faq-icon-circle">+</div>
                                 </div>
                                 <div class="faq-body-modern">
@@ -1147,7 +1142,7 @@
 
                     <!-- Right Column: Visual -->
                     <div class="faq-right-column">
-                        <img src="assets/plot.png" alt="Reliance Smart City Future">
+                        <img src="assets/plot.png" alt="Reliance MET City Future">
                     </div>
                 </div>
             </div>
