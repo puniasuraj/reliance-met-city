@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- SEO Meta Tags -->
-    <title>Reliance MET City Jhajjar | Premium Residential & Industrial Plots</title>
+    <title>#1 Reliance MET City Plots | Residential Plots</title>
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description"
         content="Invest in premium residential and industrial plots at Reliance MET City, Jhajjar. Developed by Reliance Industries, MET City offers world-class infrastructure.">
@@ -17,7 +17,7 @@
     <link rel="canonical" href="https://metjhajjarplots.com/" />
 
     <!-- Open Graph Tags -->
-    <meta property="og:title" content="Reliance MET City Jhajjar | Premium Residential & Industrial Plots">
+    <meta property="og:title" content="#1 Reliance MET City Plots | Residential Plots">
     <meta property="og:description" content="Invest in premium residential and industrial plots at Reliance MET City, Jhajjar. Developed by Reliance Industries, MET City offers world-class infrastructure.">
     <meta property="og:image" content="assets/banner.webp">
     <meta property="og:url" content="https://metjhajjarplots.com/">
@@ -206,10 +206,10 @@
                         <div class="about-breadcrumb">[<span>Overview</span>]</div>
                         <h2 class="about-main-title"> About <span class="gold-text"> Reliance MET City</span> <br></h2>
                         <p class="about-overview-text">
-                            Reliance MET City is a world-class integrated residential and industrial township located in Jhajjar, Haryana. Developed with a vision to create a future-ready business ecosystem, it offers state-of-the-art infrastructure, well-planned industrial zones, modern utilities, and seamless connectivity to Delhi NCR. The city is designed to support manufacturing, logistics, warehousing, and commercial operations, making it an attractive destination for both domestic and international businesses looking to expand their presence in India.
+                            Reliance MET City is a world-class integrated residential and industrial township located in Jhajjar, Haryana. Developed by <a href="https://en.wikipedia.org/wiki/Reliance_Industries>Reliance Industries Limited</a> with a vision to create a future-ready business ecosystem, it offers state-of-the-art infrastructure, well-planned industrial zones, modern utilities, and seamless connectivity to Delhi NCR. The city is designed to support manufacturing, logistics, warehousing, and commercial operations, making it an attractive destination for both domestic and international businesses looking to expand their presence in India.
                         </p>
                         <p class="about-overview-text" style="margin-top: 20px;">
-                            Spread across a vast area, Reliance MET City, Haryana combines advanced urban planning with sustainable development practices. It features wide road networks, reliable power and water supply, digital infrastructure, green spaces, and a business-friendly environment that promotes growth and innovation. With its strategic location near major highways, airports, and freight corridors, Reliance MET City continues to attract leading companies across various industries, contributing significantly to economic development and employment generation in the region.
+                            Spread across a vast area, Reliance MET City, Haryana combines advanced urban planning with sustainable development practices. It features wide road networks, reliable power and water supply, digital infrastructure, green spaces, and a business-friendly environment that promotes growth and innovation. With its strategic location near major highways, airports, and freight corridors, MET City continues to attract leading companies across various industries, contributing significantly to economic development and employment generation in the region.
                         </p>
                         <div class="about-cta-wrapper" style="margin-top: 30px;">
                             <a href="about-us" class="btn-gold-sm">Know More</a>
