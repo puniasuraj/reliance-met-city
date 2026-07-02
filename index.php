@@ -158,7 +158,7 @@
             <div class="container hero-grid">
                 <div class="hero-content reveal">
                     <span class="luxury-badge">Exclusive Opportunity</span>
-                    <h1>Premium <span class="gold-text">Living Begins</span> at Reliance Met City</h1>
+                    <h1>Premium <span class="gold-text">Living Begins</span> at Reliance Met City Jhajjar</h1>
                     <p>Step into a landmark destination that blends superior infrastructure with refined living, developed by Reliance Industries.</p>
                     <a href="#pricing" class="btn-gold">Explore Plots</a>
                 </div>
