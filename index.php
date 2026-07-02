@@ -6,19 +6,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- SEO Meta Tags -->
-    <title>#1 Reliance MET City Plots | Residential Plots</title>
+    <title>#1 Reliance MET City Jhajjar | Residential Plots</title>
     <link rel="icon" type="image/webp" href="assets/icon.jpg">
     <meta name="description"
-        content="Invest in premium residential and industrial plots at Reliance MET City, Jhajjar. Developed by Reliance Industries, MET City offers world-class infrastructure.">
+        content="Invest in premium residential and industrial plots at Reliance MET City Jhajjar. Developed by Reliance Industries, MET City offers world-class infrastructure.">
     <meta name="keywords"
-        content="Reliance MET City, MET City Residential Plots, MET City Jhajjar, Reliance Smart City, Reliance Met Jhajjar, Reliance Met Industrial Plots">
+        content="Reliance MET City, MET City Residential Plots, Reliance MET City Jhajjar, Reliance Smart City, Reliance Met Jhajjar, Reliance Met Industrial Plots">
         
     <meta name="robots" content="index, follow">   
     <link rel="canonical" href="https://metjhajjarplots.com/" />
 
     <!-- Open Graph Tags -->
-    <meta property="og:title" content="#1 Reliance MET City Plots | Residential Plots">
-    <meta property="og:description" content="Invest in premium residential and industrial plots at Reliance MET City, Jhajjar. Developed by Reliance Industries, MET City offers world-class infrastructure.">
+    <meta property="og:title" content="#1 Reliance MET City Jhajjar | Residential Plots">
+    <meta property="og:description" content="Invest in premium residential and industrial plots at Reliance MET City Jhajjar. Developed by Reliance Industries, MET City offers world-class infrastructure.">
     <meta property="og:image" content="assets/banner.webp">
     <meta property="og:url" content="https://metjhajjarplots.com/">
     <meta name="google-site-verification" content="wuYLWjRj37glHjgesHII8iWRkaVlL2cOfMHnrNQqje8" />
@@ -67,7 +67,7 @@
 {
   "@context": "https://schema.org/",
   "@type": "WebSite",
-  "name": "Reliance MET City Plots",
+  "name": "Reliance MET City Jhajjar",
   "url": "https://metjhajjarplots.com/"
 }
 </script>
